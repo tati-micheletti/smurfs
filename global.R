@@ -12,6 +12,10 @@ getOrUpdatePkg("terra")
 getOrUpdatePkg("reproducible")
 getOrUpdatePkg("googledrive")
 
+# If doing for the first time in a new machine
+# should do it iteractively:
+# googledrive::drive_auth(email = "tati.micheletti@gmail.com", use_oob = TRUE)
+# gargle::gargle_oauth_cache(".secrets")
 
 ################### RUNAME
 
