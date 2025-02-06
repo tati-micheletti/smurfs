@@ -1,0 +1,3 @@
+[submodule "modules/smurfsMovement"]
+	path = modules/smurfsMovement
+	url = https://github.com/tati-micheletti/smurfsMovement
